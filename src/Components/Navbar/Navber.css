@@ -1,0 +1,12 @@
+
+nav a {
+   margin-right: 20px;
+   text-decoration: none;
+  
+}
+
+nav a .active {
+
+   text-decoration:underline;
+   background-color: aquamarine;
+}
